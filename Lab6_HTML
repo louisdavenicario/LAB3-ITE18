@@ -1,1 +1,36 @@
+<DOCTYPE html>
+<html lang="en>"
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>COFFEE</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="./logo.png" alt="spresso coffee and co">
+            <nav>
+                <ul>
+                    <li class="home">Home</li>
+                    <li>About</li>
+                    <li>Services</li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <div class="contents">
+                <h1>Brewed</h1>
+                <h1>Coffee</h1>
+                <p>Crafting Moments, One Coffee at a Time.</p>
+                <button>
+                    BUY NOW
+                </button>
+            </div>
+            <img src="black-coffee-arrangement-cloth.jpg" alt="black-coffee-arrangement-cloth">
+        </main>
+    </div>
+</body>
+</html
 
